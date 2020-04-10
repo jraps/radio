@@ -18,6 +18,9 @@ https://s46.maxcast.com.br:8152/live?1586482008708
 #EXTINF:0,Radio Universidad Chile
 #EXTVLCOPT:network-caching=1000
 http://streamuchile.teslati.com:8000/;?type=https&nocache=160
+#EXTINF:0,Radio Colombia Crossover
+#EXTVLCOPT:network-caching=1000
+http://64.37.50.226:8006/stream/1/
 #EXTINF:0,nGola Yetu FM
 #EXTVLCOPT:network-caching=1000
 https://radios.vpn.sapo.pt/AO/radio12.mp3?1586485894418
