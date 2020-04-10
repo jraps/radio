@@ -24,3 +24,6 @@ http://64.37.50.226:8006/stream/1/
 #EXTINF:0,nGola Yetu FM
 #EXTVLCOPT:network-caching=1000
 https://radios.vpn.sapo.pt/AO/radio12.mp3?1586485894418
+#EXTINF:0,Radio Nacional Folklorica FM 98.7
+#EXTVLCOPT:network-caching=1000
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
