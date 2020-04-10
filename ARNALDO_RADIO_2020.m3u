@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0,sc_rad38
+#EXTVLCOPT:network-caching=1000
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
+#EXTINF:0,Guajira Radio
+#EXTVLCOPT:bookmarks=
+#EXTVLCOPT:file-caching=300
+http://01.solumedia.com.ar:8252/stream
+#EXTINF:0,La Mega FM
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+https://prod-34-83-53-134.wostreaming.net/sbsystems-wskqfmaac-imc1?session-id=05229c5d375b36ff2a27710155c1de62
+#EXTINF:0,Antena 1 SP
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+https://antenaone.crossradio.com.br/stream/2;
+#EXTINF:0,Radio Gonzagao
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+https://s46.maxcast.com.br:8152/live?1586482008708
+#EXTINF:0,Radio Universidad Chile
+#EXTVLCOPT:network-caching=1000
+http://streamuchile.teslati.com:8000/;?type=https&nocache=160
+#EXTINF:0,Radio Colombia Crossover
+#EXTVLCOPT:network-caching=1000
+http://64.37.50.226:8006/stream/1/
+#EXTINF:0,nGola Yetu FM
+#EXTVLCOPT:network-caching=1000
+https://radios.vpn.sapo.pt/AO/radio12.mp3?1586485894418
